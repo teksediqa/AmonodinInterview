@@ -95,7 +95,7 @@ public class ChooseFlight extends CommonUtility {
 		fluientWaitforElement(factory.bookingPage().FlightHeader, 30, 30); 
 		logger.info("user should be see the choose flight page");
 		
-		
+		//this is my project for interview
 		
 		
 		
