@@ -1,0 +1,4 @@
+ui:
+   browser: firefox
+   headless: false
+   url: https://www.aa.com/

@@ -1,0 +1,228 @@
+2023-07-30 17:32:57,729 [main] INFO logger_File - User is on retail website
+2023-07-30 17:32:58,163 [main] INFO logger_File - user clicked on Sign in Option
+2023-07-30 17:32:58,441 [main] INFO logger_File - user entered email and password
+2023-07-30 17:32:58,736 [main] INFO logger_File - user clicked on login button
+2023-07-30 17:34:18,270 [main] INFO logger_File - User is on retail website
+2023-07-30 17:34:18,831 [main] INFO logger_File - User searched forPokemonithem
+2023-07-30 17:37:05,202 [main] INFO logger_File - User is on retail website
+2023-07-30 17:37:05,702 [main] INFO logger_File - User searched forPokemonithem
+2023-07-30 17:37:05,753 [main] INFO logger_File - Product should be displyed
+2023-07-31 10:30:52,358 [main] INFO logger_File - American Airline shuld be displyed 
+2023-07-31 10:30:52,487 [main] INFO logger_File - user should clicked on cookies button
+2023-07-31 10:34:42,817 [main] INFO logger_File - American Airline shuld be displyed 
+2023-07-31 10:34:42,922 [main] INFO logger_File - user should clicked on cookies button
+2023-07-31 10:34:43,412 [main] INFO logger_File - user should clicked on oneway button
+2023-07-31 10:57:13,706 [main] INFO logger_File - American Airline shuld be displyed 
+2023-07-31 10:57:13,787 [main] INFO logger_File - user should clicked on cookies button
+2023-07-31 10:57:14,252 [main] INFO logger_File - user should clicked on oneway button
+2023-07-31 10:57:14,641 [main] INFO logger_File - user entered below information
+2023-07-31 14:15:21,927 [main] INFO logger_File - American Airline shuld be displyed 
+2023-07-31 14:15:22,102 [main] INFO logger_File - user should clicked on cookies button
+2023-07-31 14:15:22,622 [main] INFO logger_File - user should clicked on oneway button
+2023-07-31 14:15:23,047 [main] INFO logger_File - user entered below information
+2023-07-31 14:35:27,524 [main] INFO logger_File - American Airline shuld be displyed 
+2023-07-31 14:35:27,627 [main] INFO logger_File - user should clicked on cookies button
+2023-07-31 14:35:28,091 [main] INFO logger_File - user should clicked on oneway button
+2023-07-31 14:35:28,458 [main] INFO logger_File - user entered below information
+2023-07-31 14:38:39,628 [main] INFO logger_File - American Airline shuld be displyed 
+2023-07-31 14:38:39,774 [main] INFO logger_File - user should clicked on cookies button
+2023-07-31 14:38:40,337 [main] INFO logger_File - user should clicked on oneway button
+2023-07-31 14:38:40,801 [main] INFO logger_File - user entered below information
+2023-07-31 14:46:40,917 [main] INFO logger_File - American Airline shuld be displyed 
+2023-07-31 14:46:41,026 [main] INFO logger_File - user should clicked on cookies button
+2023-07-31 14:46:41,469 [main] INFO logger_File - user should clicked on oneway button
+2023-07-31 14:46:41,854 [main] INFO logger_File - user entered below information
+2023-07-31 14:46:42,602 [main] INFO logger_File - number of passenger should be changed to 2
+2023-07-31 14:48:13,010 [main] INFO logger_File - American Airline shuld be displyed 
+2023-07-31 14:48:13,119 [main] INFO logger_File - user should clicked on cookies button
+2023-07-31 14:48:13,653 [main] INFO logger_File - user should clicked on oneway button
+2023-07-31 14:48:14,168 [main] INFO logger_File - user entered below information
+2023-07-31 14:48:14,890 [main] INFO logger_File - number of passenger should be changed to 2
+2023-07-31 14:48:15,524 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-07-31 14:58:14,938 [main] INFO logger_File - American Airline shuld be displyed 
+2023-07-31 14:58:15,088 [main] INFO logger_File - user should clicked on cookies button
+2023-07-31 14:58:15,589 [main] INFO logger_File - user should clicked on oneway button
+2023-07-31 14:58:16,080 [main] INFO logger_File - user entered below information
+2023-07-31 14:58:16,838 [main] INFO logger_File - number of passenger should be changed to 2
+2023-07-31 14:58:17,489 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-07-31 15:11:53,532 [main] INFO logger_File - American Airline shuld be displyed 
+2023-07-31 15:11:53,618 [main] INFO logger_File - user should clicked on cookies button
+2023-07-31 15:11:54,080 [main] INFO logger_File - user should clicked on oneway button
+2023-07-31 15:11:54,453 [main] INFO logger_File - user entered below information
+2023-07-31 15:11:55,064 [main] INFO logger_File - number of passenger should be changed to 2
+2023-07-31 15:11:55,802 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-07-31 15:11:55,984 [main] INFO logger_File - user should be selected departure date 
+2023-07-31 15:19:47,435 [main] INFO logger_File - American Airline shuld be displyed 
+2023-07-31 15:19:47,502 [main] INFO logger_File - user should clicked on cookies button
+2023-07-31 15:19:47,899 [main] INFO logger_File - user should clicked on oneway button
+2023-07-31 15:19:48,169 [main] INFO logger_File - user entered below information
+2023-07-31 15:19:48,743 [main] INFO logger_File - number of passenger should be changed to 2
+2023-07-31 15:19:49,325 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-07-31 15:19:49,422 [main] INFO logger_File - user should be selected departure date 
+2023-07-31 15:19:49,704 [main] INFO logger_File - user should be clicked on search button
+2023-07-31 15:30:59,832 [main] INFO logger_File - American Airline shuld be displyed 
+2023-07-31 15:30:59,926 [main] INFO logger_File - user should clicked on cookies button
+2023-07-31 15:31:00,396 [main] INFO logger_File - user should clicked on oneway button
+2023-07-31 15:31:00,697 [main] INFO logger_File - user entered below information
+2023-07-31 15:31:01,306 [main] INFO logger_File - number of passenger should be changed to 2
+2023-07-31 15:31:01,848 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-07-31 15:31:01,938 [main] INFO logger_File - user should be selected departure date 
+2023-07-31 15:31:02,226 [main] INFO logger_File - user should be clicked on search button
+2023-07-31 15:34:07,656 [main] INFO logger_File - American Airline shuld be displyed 
+2023-07-31 15:34:07,736 [main] INFO logger_File - user should clicked on cookies button
+2023-07-31 15:34:08,149 [main] INFO logger_File - user should clicked on oneway button
+2023-07-31 15:34:08,459 [main] INFO logger_File - user entered below information
+2023-07-31 15:34:09,078 [main] INFO logger_File - number of passenger should be changed to 2
+2023-07-31 15:34:09,631 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-07-31 15:34:09,736 [main] INFO logger_File - user should be selected departure date 
+2023-07-31 15:34:10,022 [main] INFO logger_File - user should be clicked on search button
+2023-07-31 15:37:32,240 [main] INFO logger_File - American Airline shuld be displyed 
+2023-07-31 15:37:32,323 [main] INFO logger_File - user should clicked on cookies button
+2023-07-31 15:37:32,732 [main] INFO logger_File - user should clicked on oneway button
+2023-07-31 15:37:33,002 [main] INFO logger_File - user entered below information
+2023-07-31 15:37:33,578 [main] INFO logger_File - number of passenger should be changed to 2
+2023-07-31 15:37:34,121 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-07-31 15:37:34,211 [main] INFO logger_File - user should be selected departure date 
+2023-07-31 15:37:34,485 [main] INFO logger_File - user should be clicked on search button
+2023-07-31 19:53:54,667 [main] INFO logger_File - American Airline shuld be displyed 
+2023-07-31 19:53:54,822 [main] INFO logger_File - user should clicked on cookies button
+2023-07-31 19:53:55,381 [main] INFO logger_File - user should clicked on oneway button
+2023-07-31 19:53:55,901 [main] INFO logger_File - user entered below information
+2023-07-31 19:53:56,630 [main] INFO logger_File - number of passenger should be changed to 2
+2023-07-31 19:53:57,240 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-07-31 19:53:57,429 [main] INFO logger_File - user should be selected departure date 
+2023-07-31 19:53:57,782 [main] INFO logger_File - user should be clicked on search button
+2023-08-01 22:07:07,448 [main] INFO logger_File - American Airline shuld be displyed 
+2023-08-01 22:07:07,557 [main] INFO logger_File - user should clicked on cookies button
+2023-08-01 22:07:08,060 [main] INFO logger_File - user should clicked on oneway button
+2023-08-01 22:07:08,461 [main] INFO logger_File - user entered below information
+2023-08-01 22:07:09,185 [main] INFO logger_File - number of passenger should be changed to 2
+2023-08-01 22:07:09,820 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-08-01 22:07:09,987 [main] INFO logger_File - user should be selected departure date 
+2023-08-01 22:07:10,329 [main] INFO logger_File - user should be clicked on search button
+2023-08-01 22:21:04,002 [main] INFO logger_File - American Airline shuld be displyed 
+2023-08-01 22:21:04,096 [main] INFO logger_File - user should clicked on cookies button
+2023-08-01 22:21:04,560 [main] INFO logger_File - user should clicked on oneway button
+2023-08-01 22:21:04,957 [main] INFO logger_File - user entered below information
+2023-08-01 22:21:05,596 [main] INFO logger_File - number of passenger should be changed to 2
+2023-08-01 22:21:06,220 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-08-01 22:21:06,390 [main] INFO logger_File - user should be selected departure date 
+2023-08-01 22:21:06,746 [main] INFO logger_File - user should be clicked on search button
+2023-08-01 22:28:11,605 [main] INFO logger_File - American Airline shuld be displyed 
+2023-08-01 22:28:11,753 [main] INFO logger_File - user should clicked on cookies button
+2023-08-01 22:28:12,237 [main] INFO logger_File - user should clicked on oneway button
+2023-08-01 22:28:12,674 [main] INFO logger_File - user entered below information
+2023-08-01 22:28:13,302 [main] INFO logger_File - number of passenger should be changed to 2
+2023-08-01 22:28:13,922 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-08-01 22:28:14,115 [main] INFO logger_File - user should be selected departure date 
+2023-08-01 22:28:14,502 [main] INFO logger_File - user should be clicked on search button
+2023-08-01 22:31:10,472 [main] INFO logger_File - American Airline shuld be displyed 
+2023-08-01 22:31:10,629 [main] INFO logger_File - user should clicked on cookies button
+2023-08-01 22:31:11,064 [main] INFO logger_File - user should clicked on oneway button
+2023-08-01 22:31:11,341 [main] INFO logger_File - user entered below information
+2023-08-01 22:31:11,961 [main] INFO logger_File - number of passenger should be changed to 2
+2023-08-01 22:31:12,615 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-08-01 22:31:12,769 [main] INFO logger_File - user should be selected departure date 
+2023-08-01 22:31:13,079 [main] INFO logger_File - user should be clicked on search button
+2023-08-01 22:32:59,171 [main] INFO logger_File - American Airline shuld be displyed 
+2023-08-01 22:32:59,257 [main] INFO logger_File - user should clicked on cookies button
+2023-08-01 22:32:59,720 [main] INFO logger_File - user should clicked on oneway button
+2023-08-01 22:33:00,031 [main] INFO logger_File - user entered below information
+2023-08-01 22:33:00,659 [main] INFO logger_File - number of passenger should be changed to 2
+2023-08-01 22:33:01,301 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-08-01 22:33:01,425 [main] INFO logger_File - user should be selected departure date 
+2023-08-01 22:33:01,732 [main] INFO logger_File - user should be clicked on search button
+2023-08-01 22:45:49,657 [main] INFO logger_File - American Airline shuld be displyed 
+2023-08-01 22:45:49,778 [main] INFO logger_File - user should clicked on cookies button
+2023-08-01 22:45:50,218 [main] INFO logger_File - user should clicked on oneway button
+2023-08-01 22:45:50,504 [main] INFO logger_File - user entered below information
+2023-08-01 22:45:51,132 [main] INFO logger_File - number of passenger should be changed to 2
+2023-08-01 22:45:51,729 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-08-01 22:45:51,844 [main] INFO logger_File - user should be selected departure date 
+2023-08-01 22:45:52,154 [main] INFO logger_File - user should be clicked on search button
+2023-08-01 22:57:32,768 [main] INFO logger_File - American Airline shuld be displyed 
+2023-08-01 22:57:32,932 [main] INFO logger_File - user should clicked on cookies button
+2023-08-01 22:57:33,475 [main] INFO logger_File - user should clicked on oneway button
+2023-08-01 22:57:33,797 [main] INFO logger_File - user entered below information
+2023-08-01 22:57:34,484 [main] INFO logger_File - number of passenger should be changed to 2
+2023-08-01 22:57:35,186 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-08-01 22:57:35,379 [main] INFO logger_File - user should be selected departure date 
+2023-08-01 22:57:35,766 [main] INFO logger_File - user should be clicked on search button
+2023-08-01 23:05:25,318 [main] INFO logger_File - American Airline shuld be displyed 
+2023-08-01 23:05:25,479 [main] INFO logger_File - user should clicked on cookies button
+2023-08-01 23:05:26,058 [main] INFO logger_File - user should clicked on oneway button
+2023-08-01 23:05:26,353 [main] INFO logger_File - user entered below information
+2023-08-01 23:05:27,028 [main] INFO logger_File - number of passenger should be changed to 2
+2023-08-01 23:05:27,807 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-08-01 23:05:27,974 [main] INFO logger_File - user should be selected departure date 
+2023-08-01 23:05:28,302 [main] INFO logger_File - user should be clicked on search button
+2023-08-02 12:29:02,851 [main] INFO logger_File - American Airline shuld be displyed 
+2023-08-02 12:29:02,976 [main] INFO logger_File - user should clicked on cookies button
+2023-08-02 12:29:03,489 [main] INFO logger_File - user should clicked on oneway button
+2023-08-02 12:29:03,786 [main] INFO logger_File - user entered below information
+2023-08-02 12:29:04,440 [main] INFO logger_File - number of passenger should be changed to 2
+2023-08-02 12:29:05,050 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-08-02 12:29:05,189 [main] INFO logger_File - user should be selected departure date 
+2023-08-02 12:29:05,502 [main] INFO logger_File - user should be clicked on search button
+2023-08-02 12:39:14,632 [main] INFO logger_File - American Airline shuld be displyed 
+2023-08-02 12:39:14,737 [main] INFO logger_File - user should clicked on cookies button
+2023-08-02 12:39:15,220 [main] INFO logger_File - user should clicked on oneway button
+2023-08-02 12:39:15,580 [main] INFO logger_File - user entered below information
+2023-08-02 12:39:16,199 [main] INFO logger_File - number of passenger should be changed to 2
+2023-08-02 12:39:16,811 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-08-02 12:39:16,990 [main] INFO logger_File - user should be selected departure date 
+2023-08-02 12:39:17,355 [main] INFO logger_File - user should be clicked on search button
+2023-08-02 12:44:31,169 [main] INFO logger_File - American Airline shuld be displyed 
+2023-08-02 12:44:31,320 [main] INFO logger_File - user should clicked on cookies button
+2023-08-02 12:44:31,835 [main] INFO logger_File - user should clicked on oneway button
+2023-08-02 12:44:32,177 [main] INFO logger_File - user entered below information
+2023-08-02 12:44:33,007 [main] INFO logger_File - number of passenger should be changed to 2
+2023-08-02 12:44:33,612 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-08-02 12:44:33,759 [main] INFO logger_File - user should be selected departure date 
+2023-08-02 12:44:34,072 [main] INFO logger_File - user should be clicked on search button
+2023-08-02 12:45:24,929 [main] INFO logger_File - user should be clicked on search button
+2023-08-02 12:46:55,374 [main] INFO logger_File - American Airline shuld be displyed 
+2023-08-02 12:46:55,507 [main] INFO logger_File - user should clicked on cookies button
+2023-08-02 12:46:56,086 [main] INFO logger_File - user should clicked on oneway button
+2023-08-02 12:46:56,336 [main] INFO logger_File - user entered below information
+2023-08-02 12:46:56,955 [main] INFO logger_File - number of passenger should be changed to 2
+2023-08-02 12:46:57,561 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-08-02 12:46:57,733 [main] INFO logger_File - user should be selected departure date 
+2023-08-02 12:46:58,063 [main] INFO logger_File - user should be clicked on search button
+2023-08-02 12:47:48,839 [main] INFO logger_File - user should be clicked on search button
+2023-08-02 13:00:31,421 [main] INFO logger_File - American Airline shuld be displyed 
+2023-08-02 13:00:31,508 [main] INFO logger_File - user should clicked on cookies button
+2023-08-02 13:00:31,995 [main] INFO logger_File - user should clicked on oneway button
+2023-08-02 13:00:32,288 [main] INFO logger_File - user entered below information
+2023-08-02 13:00:32,906 [main] INFO logger_File - number of passenger should be changed to 2
+2023-08-02 13:00:33,576 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-08-02 13:00:33,705 [main] INFO logger_File - user should be selected departure date 
+2023-08-02 13:00:34,013 [main] INFO logger_File - user should be clicked on search button
+2023-08-02 13:01:25,025 [main] INFO logger_File - user should be see the choose flight page
+2023-08-14 10:50:42,578 [main] INFO logger_File - American Airline shuld be displyed 
+2023-08-14 10:50:42,743 [main] INFO logger_File - user should clicked on cookies button
+2023-08-14 10:50:43,226 [main] INFO logger_File - user should clicked on oneway button
+2023-08-14 10:50:43,564 [main] INFO logger_File - user entered below information
+2023-08-14 10:50:44,244 [main] INFO logger_File - number of passenger should be changed to 2
+2023-08-14 10:50:44,941 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-08-14 10:50:45,085 [main] INFO logger_File - user should be selected departure date 
+2023-08-14 10:50:45,428 [main] INFO logger_File - user should be clicked on search button
+2023-08-14 10:51:36,367 [main] INFO logger_File - user should be see the choose flight page
+2023-08-14 10:53:03,427 [main] INFO logger_File - American Airline shuld be displyed 
+2023-08-14 10:53:03,537 [main] INFO logger_File - user should clicked on cookies button
+2023-08-14 10:53:03,973 [main] INFO logger_File - user should clicked on oneway button
+2023-08-14 10:53:04,245 [main] INFO logger_File - user entered below information
+2023-08-14 10:53:04,838 [main] INFO logger_File - number of passenger should be changed to 2
+2023-08-14 10:53:05,461 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-08-14 10:53:05,575 [main] INFO logger_File - user should be selected departure date 
+2023-08-14 10:53:05,889 [main] INFO logger_File - user should be clicked on search button
+2023-08-14 10:53:56,577 [main] INFO logger_File - user should be see the choose flight page
+2023-08-14 11:07:51,292 [main] INFO logger_File - American Airline shuld be displyed 
+2023-08-14 11:07:51,396 [main] INFO logger_File - user should clicked on cookies button
+2023-08-14 11:07:51,858 [main] INFO logger_File - user should clicked on oneway button
+2023-08-14 11:07:52,197 [main] INFO logger_File - user entered below information
+2023-08-14 11:07:52,867 [main] INFO logger_File - number of passenger should be changed to 2
+2023-08-14 11:07:53,569 [main] INFO logger_File - number of passenger should be changed to 3 
+2023-08-14 11:07:53,740 [main] INFO logger_File - user should be selected departure date 
+2023-08-14 11:07:54,090 [main] INFO logger_File - user should be clicked on search button
+2023-08-14 11:08:44,826 [main] INFO logger_File - user should be see the choose flight page
